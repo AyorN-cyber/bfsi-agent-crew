@@ -1,0 +1,42 @@
+[
+  {
+    "id": "APP-001",
+    "applicant": "Sample Applicant A",
+    "annual_income": 120000,
+    "monthly_debt": 3200,
+    "credit_score": 745,
+    "loan_amount": 300000,
+    "property_value": 450000,
+    "employment_years": 6
+  },
+  {
+    "id": "APP-002",
+    "applicant": "Sample Applicant B",
+    "annual_income": 84000,
+    "monthly_debt": 3300,
+    "credit_score": 701,
+    "loan_amount": 280000,
+    "property_value": 400000,
+    "employment_years": 4
+  },
+  {
+    "id": "APP-003",
+    "applicant": "Sample Applicant C",
+    "annual_income": 52000,
+    "monthly_debt": 2500,
+    "credit_score": 561,
+    "loan_amount": 190000,
+    "property_value": 210000,
+    "employment_years": 0.8
+  },
+  {
+    "id": "APP-004",
+    "applicant": "Sample Applicant D",
+    "annual_income": 96000,
+    "monthly_debt": 2900,
+    "credit_score": 688,
+    "loan_amount": 360000,
+    "property_value": 420000,
+    "employment_years": 3
+  }
+]
